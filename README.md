@@ -1,16 +1,132 @@
-## Hi there 👋
+☁️ SAMCLOUD
 
-<!--
-**samcloudops/samcloudops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Samarth Kharose 👋
 
-Here are some ideas to get you started:
+Aspiring Cloud & DevOps Engineer | Infrastructure Enthusiast | BCA Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Exploring+Cloud+Computing;Learning+Linux+%26+Networking;Building+SamStack;Learning+%7C+Building+%7C+Automating" />
+</p>---
+
+◈ ABOUT ME
+
+I'm a technology enthusiast focused on learning and building in the fields of cloud computing, DevOps, infrastructure and system administration.
+
+- 🎓 BCA Student
+- ☁️ Interested in Cloud & Infrastructure Engineering
+- 🖥️ Exploring Linux and Networking
+- ⚙️ Learning automation and DevOps fundamentals
+- 💻 Building my own project — SamStack
+- 🚀 Focused on practical learning and continuous improvement
+
+---
+
+◈ TECHNICAL SKILLS
+
+☁️ Cloud & Infrastructure
+
+- AWS Fundamentals
+- Cloud Computing Concepts
+- Infrastructure Fundamentals
+
+🖥️ Systems & Networking
+
+- Linux Fundamentals
+- Computer Networking
+- Operating System Concepts
+
+💻 Programming & Development
+
+- C Programming
+- HTML
+- CSS & JavaScript — Learning
+- Python — Learning
+
+⚙️ Tools
+
+- Git & GitHub
+- Termux
+- Node.js & Express
+- SQLite
+
+---
+
+◈ TECHNOLOGY STACK
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,aws,git,github,c,html,css,js,python,nodejs,express,sqlite,vscode&theme=dark" />
+</p>---
+
+◈ FEATURED PROJECTS
+
+☁️ SAMSTACK
+
+Personal Cloud Storage & Management Platform
+
+A developing platform focused on secure personal storage, file management and collaborative workspaces.
+
+Technologies: HTML, CSS, JavaScript, Node.js, Express and SQLite.
+
+Status: In Development 🚧
+
+🖥️ Linux & Infrastructure Labs
+
+A practical collection of Linux commands, system fundamentals and infrastructure experiments.
+
+💻 Programming Fundamentals
+
+A collection of programming exercises and beginner development projects.
+
+---
+
+◈ CURRENT LEARNING JOURNEY
+
+- [x] Programming Fundamentals
+- [x] HTML Fundamentals
+- [ ] Git & GitHub
+- [ ] Linux Administration
+- [ ] Computer Networking
+- [ ] Python & Bash
+- [ ] AWS Cloud Fundamentals
+- [ ] Cloud Infrastructure Projects
+- [ ] DevOps & Automation
+
+---
+
+◈ GITHUB STATISTICS
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samcloud&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcloud&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p><p align="center">
+<img src="https://streak-stats.demolab.com?user=samcloud&theme=tokyonight&hide_border=true" width="70%" />
+</p>---
+
+◈ MY ENGINEERING PHILOSOPHY
+
+«Understand the system. Build the solution. Make it reliable.»
+
+- Learn continuously.
+- Build practically.
+- Think technically.
+- Solve problems.
+- Improve consistently.
+
+---
+
+◈ CONNECT WITH ME
+
+<p align="left">
+<a href="https://github.com/samcloud">
+<img src="https://img.shields.io/badge/GitHub-SAMCLOUD-181717?style=for-the-badge&logo=github" />
+</a>
+</p>---
+
+<p align="center">
+  <b>☁️ SAMCLOUD</b>
+  <br/>
+  <i>Exploring Infrastructure. Building Possibilities.</i>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/LEARN-CONTINUOUSLY-00BFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BUILD-CONSISTENTLY-00C853?style=flat-square"/>
+</p>
