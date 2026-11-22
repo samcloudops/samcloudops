@@ -1,13 +1,18 @@
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:075985,100:06B6D4&height=220&section=header&text=SAMCLOUD&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%7C%20Infrastructure&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:071426,100:06B6D4&height=220&section=header&text=SAMCLOUD&fontSize=65&fontColor=ffffff&animation=fadeIn"
     width="100%"
+    alt="SAMCLOUD Cloud and DevOps banner"
   />
 </p>
 
 <p align="center">
-  <b>☁️ LEARN • BUILD • AUTOMATE • IMPROVE</b>
+  <b>☁️ CLOUD • DEVOPS • INFRASTRUCTURE</b>
+  <br/>
+  <i>Learn • Build • Automate • Improve</i>
 </p>
+
 
 ☁️ SAMCLOUD
 
