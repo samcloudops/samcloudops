@@ -141,3 +141,25 @@ A collection of programming exercises and beginner development projects.
   <img src="https://img.shields.io/badge/LEARN-CONTINUOUSLY-00BFFF?style=flat-square"/>
   <img src="https://img.shields.io/badge/BUILD-CONSISTENTLY-00C853?style=flat-square"/>
 </p>
+
+---
+
+## 🐍 CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/samcloud/samcloud/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/samcloud/samcloud/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/samcloud/samcloud/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
