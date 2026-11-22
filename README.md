@@ -164,6 +164,7 @@ A collection of programming exercises and beginner development projects.
 
 ◈ CONNECT WITH ME
 
+LINKEDIN: https://www.linkedin.com/in/samarth-kharose-708585449?utm_source=share_via&utm_content=profile&utm_medium=member_android
 <p align="left">
 <a href="https://github.com/samcloud">
 <img src="https://img.shields.io/badge/GitHub-SAMCLOUD-181717?style=for-the-badge&logo=github" />
